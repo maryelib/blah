@@ -1,0 +1,36 @@
+body {
+  background-color: #f1f1f6;
+  width: 1000px;
+  height: 1000px;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #f35588;
+  border-width: 5px;
+  width: 100%;
+}
+
+h1 {
+  color: #b21f66;
+}
+
+h3 {
+  color:#f35588
+}
+
+a:hover {
+  background-color: #ffc2c2
+}
+
+.box {
+  background-color: #f1f1f6;
+  border: 5px solid #f35588;
+  border-style: solid;
+}
+
+.circular {
+  border-radius: 100%
+}
